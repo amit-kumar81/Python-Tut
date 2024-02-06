@@ -6,4 +6,6 @@
  # The pip command:-
   It can be used as a package manager pip to install a python module.
   
- ```pip install pandas```
+ ```
+ pip install pandas
+ ```
